@@ -3,7 +3,7 @@
 Clean, minimal, and structured code for lightweight application development.
 Designed for clarity, modularity, and long-term maintainability — without unnecessary complexity.
 
-[![License: PCP 1.1](https://github.com/PCPCODE/EasyCode?tab=License-1-ov-file)](#license)
+[![License: PCP 1.1](https://img.shields.io/badge/License-PCP--1.1-blue?style=flat-square)(https://github.com/PCPCODE/EasyCode?tab=License-1-ov-file)](#license)
 
 ---
 
